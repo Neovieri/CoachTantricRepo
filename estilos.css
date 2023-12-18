@@ -304,14 +304,14 @@ body{
 #whatsapp {
 
 position: fixed;
-right: 0;
+right: 10px;
 bottom: 30px;
 
 }
 
 #whatsapp a{
 
-    font-size: 15px;
+    font-size: 50px;
 }
 
 .reservas{
@@ -417,6 +417,11 @@ bottom: 30px;
     .header-img img{
 
         width: 100%;
+    }
+
+    .boton1{
+
+        margin-top: 10px;
     }
 
     .about{
