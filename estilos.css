@@ -217,10 +217,13 @@ body{
 
 .servicios{
 
+    background-image: url(imagenes/mar.jpg);
+    background-repeat: no-repeat;
+	background-size: 100% 100%;
     padding: 50px 0 100px 0;
     text-align: center;
-    background: rgb(236,156,15);
-    background: linear-gradient(90deg, rgba(236,156,15,1) 35%, rgba(255,205,0,1) 100%);
+    /*background: rgb(236,156,15);
+    background: linear-gradient(90deg, rgba(236,156,15,1) 35%, rgba(255,205,0,1) 100%);*/
 }
 
 .servicios h2{
